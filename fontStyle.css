@@ -1,0 +1,39 @@
+/*p {
+ text-decoration: line-through;
+ color:green
+}*/ 
+
+
+
+/*p {
+    
+    text-decoration: underline;
+}*/ 
+
+
+
+/*p {
+    line-height: 50px;
+    font-size: 20px;
+
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}*/ 
+
+
+
+/*Скопируйте следующий HTML код себе на страницу:Добавьте к этому коду CSS стили, чтобы получилось следующее:*/
+h1 {
+    text-align: center;
+    color:blue;
+}
+ h2 {
+    text-align: center;
+    color: green;
+ }
+p {
+    word-spacing: 20px;
+}
